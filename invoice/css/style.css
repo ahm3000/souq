@@ -1,0 +1,60 @@
+body {
+background:gray;
+}
+#contaner {
+width:900px;
+height:1100px;
+background:white;
+margin-right:auto;
+margin-left:auto;
+}
+#header {
+max-height:50px;
+padding-top:10px;
+}
+ #title {
+position: relative;
+float:right;
+color:gray;
+width:171px;
+
+}
+ #info {
+position: relative;
+float:left;
+width: 171px;
+}
+
+#logo  {
+width:900px;
+margin-top:50px;
+margin-bottom:50px;
+margin-left:350px;
+margin-right:350px;
+
+}
+#logo img {
+width:150px;
+height:150px;
+}
+#info2 {
+font-size:20px;
+font-style:bold;
+margin-bottom:30px;
+}
+#info2 span{
+margin-left : 150px;
+	
+}
+#cond {
+float:right;
+}
+#money{
+float:left;
+}
+#footer{
+position:relative;
+magin:10px;
+margin-left:auto;
+margin-right:auto;
+}
